@@ -1,5 +1,5 @@
 # Hi, there
-## I'm the Beginner Data Analyst and Python Researcher
+## I'm the enthusiastic DA + DS and Python Researcher
 
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-orange)
