@@ -23,4 +23,3 @@
 * [SRW_bot](https://github.com/dichka/srw_bot) - Чат-бот по инструктированию и оповещению ответственных лиц в случае чрезвычайных ситуаций
 * [GG (Guitar Gatherings)](https://github.com/dichka/GG) - Программа создания шаблонных постов для мероприятий
 * [wiki_parsing](https://github.com/dichka/wiki_parsing) - тестовое задание для краулингу городов и созданию таблицы (город1 - город2 - население города 1 - население города 2 - расстояние между городами)
-* [tesseract_rus](https://github.com/dichka/tesseract_rus) - мини-практика с OCR для распознавания текста
